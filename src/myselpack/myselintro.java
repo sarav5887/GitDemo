@@ -22,7 +22,7 @@ public class myselintro
 		if (a[i] % 2 == 0) {
 			System.out.println(a[i]);
 			break;
-			break;
+			
 			
 		} else {
 System.out.println(a[i] + "No");
